@@ -3,7 +3,7 @@
     {
       "id": "lamp",
       "name": "Smart Table Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 35,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -13,7 +13,7 @@
     {
       "id": "fan",
       "name": "Mini Table Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 600,
       "stock": 6,
       "category": "HOME GADGETS",
@@ -23,7 +23,7 @@
     {
       "id": "humidifier",
       "name": "Smart Humidifier",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 40,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -33,7 +33,7 @@
     {
       "id": "watch",
       "name": "Smart Watch",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 55,
       "stock": 10,
       "category": "WEARABLES",
@@ -43,7 +43,7 @@
     {
       "id": "fan-demo-1",
       "name": "ZYNIX Air Mini Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 30,
       "stock": 6,
       "category": "HOME GADGETS",
@@ -53,7 +53,7 @@
     {
       "id": "fan-demo-2",
       "name": "ZYNIX Air Pro Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 35,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -63,7 +63,7 @@
     {
       "id": "fan-demo-3",
       "name": "ZYNIX DeskFlow Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 40,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -73,7 +73,7 @@
     {
       "id": "fan-demo-4",
       "name": "ZYNIX Breeze X Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 45,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -83,7 +83,7 @@
     {
       "id": "fan-demo-5",
       "name": "ZYNIX Turbo Cool Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 50,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -93,7 +93,7 @@
     {
       "id": "fan-demo-6",
       "name": "ZYNIX CoolMax Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 55,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -103,7 +103,7 @@
     {
       "id": "fan-demo-7",
       "name": "ZYNIX Breeze Pro",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 60,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -113,7 +113,7 @@
     {
       "id": "fan-demo-8",
       "name": "ZYNIX Silent Desk Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 65,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -123,7 +123,7 @@
     {
       "id": "fan-demo-9",
       "name": "ZYNIX Portable Air Fan",
-      "image": "/src/asset/fan.png",
+      "image": "/asset/fan.png",
       "price": 70,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -133,7 +133,7 @@
     {
       "id": "lamp-demo-1",
       "name": "ZYNIX Glow Mini Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 40,
       "stock": 9,
       "category": "SMART LIGHTING",
@@ -143,7 +143,7 @@
     {
       "id": "lamp-demo-2",
       "name": "ZYNIX Glow Pro Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 45,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -153,7 +153,7 @@
     {
       "id": "lamp-demo-3",
       "name": "ZYNIX Aura Desk Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 50,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -163,7 +163,7 @@
     {
       "id": "lamp-demo-4",
       "name": "ZYNIX Aura Bedside Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 55,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -173,7 +173,7 @@
     {
       "id": "lamp-demo-5",
       "name": "ZYNIX Beam X Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 60,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -183,7 +183,7 @@
     {
       "id": "lamp-demo-6",
       "name": "ZYNIX Halo Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 65,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -193,7 +193,7 @@
     {
       "id": "lamp-demo-7",
       "name": "ZYNIX Focus Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 70,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -203,7 +203,7 @@
     {
       "id": "lamp-demo-8",
       "name": "ZYNIX NightGlow Lamp",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 75,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -213,7 +213,7 @@
     {
       "id": "lamp-demo-9",
       "name": "ZYNIX Luma Pro",
-      "image": "/src/asset/lamp.png",
+      "image": "/asset/lamp.png",
       "price": 80,
       "stock": 10,
       "category": "SMART LIGHTING",
@@ -223,7 +223,7 @@
     {
       "id": "humidifier-demo-1",
       "name": "ZYNIX Mist Mini",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 45,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -233,7 +233,7 @@
     {
       "id": "humidifier-demo-2",
       "name": "ZYNIX Mist Pro",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 50,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -243,7 +243,7 @@
     {
       "id": "humidifier-demo-3",
       "name": "ZYNIX AirMist X",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 55,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -253,7 +253,7 @@
     {
       "id": "humidifier-demo-4",
       "name": "ZYNIX Cloud Humidifier",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 60,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -263,7 +263,7 @@
     {
       "id": "humidifier-demo-5",
       "name": "ZYNIX PureMist",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 65,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -273,7 +273,7 @@
     {
       "id": "humidifier-demo-6",
       "name": "ZYNIX Mist Air",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 70,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -283,7 +283,7 @@
     {
       "id": "humidifier-demo-7",
       "name": "ZYNIX Cloud Mini",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 75,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -293,7 +293,7 @@
     {
       "id": "humidifier-demo-8",
       "name": "ZYNIX FreshAir Mist",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 80,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -303,7 +303,7 @@
     {
       "id": "humidifier-demo-9",
       "name": "ZYNIX AquaMist Pro",
-      "image": "/src/asset/humidifier.png",
+      "image": "/asset/humidifier.png",
       "price": 85,
       "stock": 10,
       "category": "HOME GADGETS",
@@ -313,7 +313,7 @@
     {
       "id": "watch-demo-1",
       "name": "ZYNIX Watch S1",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 60,
       "stock": 9,
       "category": "WEARABLES",
@@ -323,7 +323,7 @@
     {
       "id": "watch-demo-2",
       "name": "ZYNIX Watch S2",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 65,
       "stock": 10,
       "category": "WEARABLES",
@@ -333,7 +333,7 @@
     {
       "id": "watch-demo-3",
       "name": "ZYNIX Watch Pro",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 70,
       "stock": 10,
       "category": "WEARABLES",
@@ -343,7 +343,7 @@
     {
       "id": "watch-demo-4",
       "name": "ZYNIX Watch Air",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 75,
       "stock": 10,
       "category": "WEARABLES",
@@ -353,7 +353,7 @@
     {
       "id": "watch-demo-5",
       "name": "ZYNIX Watch X",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 80,
       "stock": 10,
       "category": "WEARABLES",
@@ -363,7 +363,7 @@
     {
       "id": "watch-demo-6",
       "name": "ZYNIX Fit S",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 85,
       "stock": 10,
       "category": "WEARABLES",
@@ -373,7 +373,7 @@
     {
       "id": "watch-demo-7",
       "name": "ZYNIX Fit Pro",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 90,
       "stock": 10,
       "category": "WEARABLES",
@@ -383,7 +383,7 @@
     {
       "id": "watch-demo-8",
       "name": "ZYNIX Active X",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 95,
       "stock": 10,
       "category": "WEARABLES",
@@ -393,7 +393,7 @@
     {
       "id": "watch-demo-9",
       "name": "ZYNIX Ultra Watch",
-      "image": "/src/asset/smartwatch.png",
+      "image": "/asset/smartwatch.png",
       "price": 100,
       "stock": 10,
       "category": "WEARABLES",
