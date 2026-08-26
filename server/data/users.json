@@ -1,0 +1,19 @@
+[
+  {
+    "id": "USR-mt4q3tzc-a5022c8f",
+    "name": "maru",
+    "email": "maru32610@gmail.com",
+    "salt": "c6661f69a45bf979f92b6a201e25f737",
+    "password_hash": "5b88a9aef913b28b34a1e348ba820190e097c3996592598808b696ad1e45dfdc8d1435e50cf5bb198c01f3389b188d01226820d16aae5726c75bea99e0bfe07f",
+    "verified": true,
+    "created_at": "2026-08-22T18:40:11.401Z"
+  },
+  {
+    "id": "USR-mt4efypg-01b7bfbb",
+    "name": "Md Sakib",
+    "email": "shakibmiya931@gmail.com",
+    "salt": "d33be8f42cabd71d7c62e9bfa1ecb8f2",
+    "password_hash": "4c97748df5f02a7c159bc17ba600516793a4d44e6a62b609fead4ddbfc478048b130e4153770152111eab3f60e34e78d13f6955dc9e26d484cf579e888e53dff",
+    "created_at": "2026-08-22T13:13:42.005Z"
+  }
+]

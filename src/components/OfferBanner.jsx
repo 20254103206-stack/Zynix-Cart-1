@@ -1,0 +1,2 @@
+function OfferBanner({onShop,settings={}}){return <section className="offer-section"><div className="offer-glow"/><div className="offer-content"><span className="offer-tag">LIMITED TIME OFFER</span><h2>{settings.offerTitle||"Upgrade Your Everyday."}</h2><p>{settings.offerSubtitle||"Get premium smart gadgets at special prices. Don't miss out on our latest collection."}</p><button className="offer-btn" onClick={onShop}>SHOP DEALS <span>→</span></button></div><div className="offer-badge"><strong>20%</strong><span>OFF</span></div></section>}
+export default OfferBanner;
